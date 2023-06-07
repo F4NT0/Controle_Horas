@@ -1,6 +1,8 @@
 # $$\boxed{\sf Controle \space de \space Horas}$$
 
-![GitHub last commit](https://img.shields.io/github/last-commit/F4NT0/Controle_Horas?color=orange) ![Language](https://img.shields.io/badge/Language-C%23-purple) ![.NET version](https://img.shields.io/badge/.NET%20versionn-6.0-blue)
+<img src="https://img.shields.io/github/last-commit/F4NT0/Controle_Horas?color=orange">
+<img src="https://img.shields.io/badge/Language-C%23-purple">
+<img src="https://img.shields.io/badge/.NET%20versionn-6.0-blue">
 
 ---
 
