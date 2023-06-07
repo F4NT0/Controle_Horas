@@ -63,4 +63,15 @@ Portando o tempo máximo de trabalho é até as `18:51`
 
 ### Programa
 
+Para rodar o programa é simplesmente ativar o arquivo $\color{orange}run.bat$.
+
+Este arquivo ativa um powershell e roda o comando `dotnet run` no projeto.
+
+```bat
+@echo off
+cd ControleHoras
+powershell -noexit -command "dotnet run"
+```
+
+#### $$\boxed{Códigos}$$
 
