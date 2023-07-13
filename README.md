@@ -14,7 +14,7 @@ Programa de controle de horas trabalhadas, onde recebe o horário inicial de tra
 
 ---
 
-#### $$\boxed{Saída \space Esperada}$$
+### $$\boxed{Saída \space Esperada}$$
 
 Temos como entrada um horário em `horas:minutos` onde é feito os seguintes cálculos:
 
@@ -41,7 +41,7 @@ $$8:51 + 8:48 = 17:39$$
 
 ---
 
-#### $$\boxed{Saída \space Máxima}$$
+### $$\boxed{Saída \space Máxima}$$
 
 Temos como entrada um horário em `horas:minutos` onde é feito os seguintes cálculos:
 
@@ -73,7 +73,7 @@ cd ControleHoras
 powershell -noexit -command "dotnet run"
 ```
 
-#### $$\boxed{Códigos}$$
+### $$\boxed{Códigos}$$
 
 - Foram definidos os valores globais padrões do sistema, sendo eles o tempo de intervalo de uma hora, o tempo de trabalho padrão de cada dia e o tempo máximo de trabalho.
 
