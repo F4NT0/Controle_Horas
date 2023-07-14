@@ -107,16 +107,16 @@ $$\boxed{\color{orange}\sf dotnet \space \color{magenta} run}$$
 - Temos o cálculo de horas como foi explicado na parte do cálculo, mas como o tipo de dado é o Timestamp ele já faz esse cálculo automático.
 
 <p align="center">
-    <img src="images/calculos.png">
+    <img src="images/calculos.png" width="500">
 </p>
 
 - Para ficar bonito, criei um quadro unicode com o código para criar quadros com os valores e com informação com cores.
 
 <p align="center">
-    <img src="images/unicode.png" width="400">
+    <img src="images/unicode.png" width="500">
 </p>
 - para colocar cores, foi usado os métodos do Console para colocar cores.
 
 <p align="center">
-    <img src="images/cores.png" width="400">
+    <img src="images/cores.png" width="500">
 </p>
