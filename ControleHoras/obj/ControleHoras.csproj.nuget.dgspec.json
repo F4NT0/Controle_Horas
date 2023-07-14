@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel_Stundner\\source\\repos\\GITHUB\\ControleHoras\\ControleHoras\\ControleHoras.csproj": {}
+    "C:\\Users\\Gabriel_Stundner\\source\\repos\\GITHUB\\Controle_Horas\\ControleHoras\\ControleHoras.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel_Stundner\\source\\repos\\GITHUB\\ControleHoras\\ControleHoras\\ControleHoras.csproj": {
+    "C:\\Users\\Gabriel_Stundner\\source\\repos\\GITHUB\\Controle_Horas\\ControleHoras\\ControleHoras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel_Stundner\\source\\repos\\GITHUB\\ControleHoras\\ControleHoras\\ControleHoras.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel_Stundner\\source\\repos\\GITHUB\\Controle_Horas\\ControleHoras\\ControleHoras.csproj",
         "projectName": "ControleHoras",
-        "projectPath": "C:\\Users\\Gabriel_Stundner\\source\\repos\\GITHUB\\ControleHoras\\ControleHoras\\ControleHoras.csproj",
+        "projectPath": "C:\\Users\\Gabriel_Stundner\\source\\repos\\GITHUB\\Controle_Horas\\ControleHoras\\ControleHoras.csproj",
         "packagesPath": "C:\\Users\\Gabriel_Stundner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel_Stundner\\source\\repos\\GITHUB\\ControleHoras\\ControleHoras\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel_Stundner\\source\\repos\\GITHUB\\Controle_Horas\\ControleHoras\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
