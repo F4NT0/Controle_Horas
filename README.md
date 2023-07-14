@@ -95,30 +95,30 @@ $$\boxed{\color{orange}\sf dotnet \space \color{magenta} run}$$
 - Foram definidos os valores globais padrões do sistema, sendo eles o tempo de intervalo de uma hora, o tempo de trabalho padrão de cada dia e o tempo máximo de trabalho.
 
 <p align="center">
-    <img src="images/variaveis-tempo.png" width="600">
+    <img src="images/variaveis-tempo.png">
 </p>
 
 - Criamos um sistema de recebimento de um valor de tempo e é feito a transformação desse valor de entrada para timestamp.
 
 <p align="center">
-    <img src="images/valores-entrada.png" width="600">
+    <img src="images/valores-entrada.png">
 </p>
 
 - Temos o cálculo de horas como foi explicado na parte do cálculo, mas como o tipo de dado é o Timestamp ele já faz esse cálculo automático.
 
 <p align="center">
-    <img src="images/calculos.png" width="600">
+    <img src="images/calculos.png">
 </p>
 
 - Para ficar bonito, criei um quadro unicode com o código para criar quadros com os valores e com informação com cores.
 
 <p align="center">
-    <img src="images/unicode.png" width="600">
+    <img src="images/unicode.png">
 </p>
 - para colocar cores, foi usado os métodos do Console para colocar cores.
 
 <p align="center">
-    <img src="images/cores.png" width="600">
+    <img src="images/cores.png">
 </p>
 
 
