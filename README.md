@@ -1,8 +1,10 @@
-# $$\boxed{\sf Controle \space de \space Horas}$$
+<p align="center">
+    <img src="images/banner-controle-horas.gif">
+</p>
 
-![Last Commit](https://img.shields.io/github/last-commit/F4NT0/Controle_Horas?color=orange)
+![Last Commit](https://img.shields.io/github/last-commit/F4NT0/Controle_Horas?color=green)
 ![Language](https://img.shields.io/badge/Language-C%23-purple)
-![Version](https://img.shields.io/badge/.NET%20versionn-6.0-blue)
+![Version](https://img.shields.io/badge/.NET%20version-6.0-blue)
 
 ---
 
@@ -77,7 +79,7 @@ Set-ExecutionPolicy RemoteSigned
 Quando roda o script é apresentado no console todas as seguintes informações:
 
 <p align="center">
-    <img src="images/Result.png" width="600">
+    <img src="images/console-view.png" width="600">
 </p>
 
 Caso queira iniciar ele naturalmente, acesse o diretório `ControleHoras/` deste repositório e rode o seguinte comando:

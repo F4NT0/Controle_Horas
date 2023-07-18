@@ -22,7 +22,7 @@ namespace ControleHoras
             string dirabaixo = "\u2518";
             string connect = "\u2500";
 
-            Console.Write(" Insira o horário de inicio (ex: 7:00) : ");
+            Console.Write("> Insira o horário de inicio (ex: 7:00) : ");
             #pragma warning disable CS8600 // faz ignorar warning de variável não inicializada
             string entrada = Console.ReadLine();
             #pragma warning disable CS8602
